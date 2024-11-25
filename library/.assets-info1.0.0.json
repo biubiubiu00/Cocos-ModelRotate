@@ -1,0 +1,90 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources": {
+      "time": 1732516290803.408,
+      "uuid": "8f20bf96-92bb-4d35-b156-dc21377277c0"
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/scenes": {
+      "time": 1732494525333.996,
+      "uuid": "265e2d6e-e2fa-400c-9c4b-42e65a609fb2"
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/scripts": {
+      "time": 1732499995617.5747,
+      "uuid": "34d77142-8a81-4d9c-a56a-5776341cec7d"
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources/model": {
+      "time": 1732515567634.9082,
+      "uuid": "1947fd38-ece0-421f-a72b-cb7e9f4dce5f"
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources/model/plane01": {
+      "time": 1730353376527.1758,
+      "uuid": "9565ef50-4547-4839-b644-ae7e9532c260"
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/scripts/ModelRotate.ts": {
+      "time": 1732514324392.5698,
+      "uuid": "5784e1f0-871a-4173-ac5d-f7cfaafb2a2d"
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources.meta": {
+      "time": 1732494442677.5066
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/scenes.meta": {
+      "time": 1732494499574.3394
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/scripts.meta": {
+      "time": 1732494474586.916
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources/model/plane01.meta": {
+      "time": 1732515567636.3684
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources/model.meta": {
+      "time": 1732516290805.4639
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/scripts/ModelRotate.ts.meta": {
+      "time": 1732499986933.9487
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/scenes/Main.scene": {
+      "time": 1732516020723.2395,
+      "uuid": "c9a85e71-484c-4d9b-adc8-4b770e802441"
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources/model/test.rt": {
+      "time": 1732499273371.3848,
+      "uuid": "8605014d-286d-4b6e-b486-981585297dfa"
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources/model/plane01/plane01.FBX": {
+      "time": 1730353376523.234,
+      "uuid": "71d0b0a7-6303-4317-986a-2ba0045e0560"
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources/model/plane01/plane01.jpg": {
+      "time": 1730353376526.774,
+      "uuid": "04e17782-067b-4cf8-a733-423ef0530678"
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources/model/plane01/plane01.mtl": {
+      "time": 1732515568166.7856,
+      "uuid": "55682fcc-f39d-4bdf-80f9-edbeb7b58803"
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources/model/plane01/plane01.prefab": {
+      "time": 1732515953046.1995,
+      "uuid": "359b9444-0986-4364-bb7a-f92791aaf8e6"
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources/model/plane01/plane01.mtl.meta": {
+      "time": 1732515568502.398
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/scenes/Main.scene.meta": {
+      "time": 1732494525339.205
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources/model/test.rt.meta": {
+      "time": 1732499273374.823
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources/model/plane01/plane01.prefab.meta": {
+      "time": 1732515568508.829
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources/model/plane01/plane01.jpg.meta": {
+      "time": 1732515568507.9878
+    },
+    "/Users/lijian/Documents/Cocos-ModelRotate/assets/resources/model/plane01/plane01.FBX.meta": {
+      "time": 1732515568948.4736
+    }
+  },
+  "missing": {}
+}

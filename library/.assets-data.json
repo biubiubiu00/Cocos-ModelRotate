@@ -1,0 +1,139 @@
+{
+  "8f20bf96-92bb-4d35-b156-dc21377277c0": {
+    "url": "db://assets/resources",
+    "value": {},
+    "versionCode": 1
+  },
+  "265e2d6e-e2fa-400c-9c4b-42e65a609fb2": {
+    "url": "db://assets/scenes",
+    "value": {},
+    "versionCode": 1
+  },
+  "34d77142-8a81-4d9c-a56a-5776341cec7d": {
+    "url": "db://assets/scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "9565ef50-4547-4839-b644-ae7e9532c260": {
+    "url": "db://assets/resources/model/plane01",
+    "value": {},
+    "versionCode": 1
+  },
+  "1947fd38-ece0-421f-a72b-cb7e9f4dce5f": {
+    "url": "db://assets/resources/model",
+    "value": {},
+    "versionCode": 1
+  },
+  "5784e1f0-871a-4173-ac5d-f7cfaafb2a2d": {
+    "url": "db://assets/scripts/ModelRotate.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c9a85e71-484c-4d9b-adc8-4b770e802441": {
+    "url": "db://assets/scenes/Main.scene",
+    "value": {
+      "depends": [
+        "c9a85e71-484c-4d9b-adc8-4b770e802441",
+        "8605014d-286d-4b6e-b486-981585297dfa",
+        "359b9444-0986-4364-bb7a-f92791aaf8e6",
+        "8605014d-286d-4b6e-b486-981585297dfa@f9941",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "5784e1f0-871a-4173-ac5d-f7cfaafb2a2d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8605014d-286d-4b6e-b486-981585297dfa": {
+    "url": "db://assets/resources/model/test.rt",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "71d0b0a7-6303-4317-986a-2ba0045e0560": {
+    "url": "db://assets/resources/model/plane01/plane01.FBX",
+    "value": {},
+    "versionCode": 1
+  },
+  "04e17782-067b-4cf8-a733-423ef0530678": {
+    "url": "db://assets/resources/model/plane01/plane01.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "55682fcc-f39d-4bdf-80f9-edbeb7b58803": {
+    "url": "db://assets/resources/model/plane01/plane01.mtl",
+    "value": {
+      "depends": [
+        "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+        "04e17782-067b-4cf8-a733-423ef0530678@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "359b9444-0986-4364-bb7a-f92791aaf8e6": {
+    "url": "db://assets/resources/model/plane01/plane01.prefab",
+    "value": {
+      "depends": [
+        "71d0b0a7-6303-4317-986a-2ba0045e0560@c13c3",
+        "55682fcc-f39d-4bdf-80f9-edbeb7b58803",
+        "48fc96e1-330c-43a1-bb09-c89e3bd31e41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@fc873",
+        "f88a2d5b-5e71-480a-b3d6-4b41869514c7"
+      ],
+      "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8605014d-286d-4b6e-b486-981585297dfa@f9941": {
+    "url": "db://assets/resources/model/test.rt@f9941",
+    "value": {
+      "depends": [
+        "8605014d-286d-4b6e-b486-981585297dfa"
+      ]
+    },
+    "versionCode": 1
+  },
+  "04e17782-067b-4cf8-a733-423ef0530678@6c48a": {
+    "url": "db://assets/resources/model/plane01/plane01.jpg@6c48a",
+    "value": {
+      "depends": [
+        "04e17782-067b-4cf8-a733-423ef0530678"
+      ]
+    },
+    "versionCode": 1
+  },
+  "71d0b0a7-6303-4317-986a-2ba0045e0560@fa5f7": {
+    "url": "db://assets/resources/model/plane01/plane01.FBX@fa5f7",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "71d0b0a7-6303-4317-986a-2ba0045e0560@aa4e8": {
+    "url": "db://assets/resources/model/plane01/plane01.FBX@aa4e8",
+    "value": {
+      "depends": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "71d0b0a7-6303-4317-986a-2ba0045e0560@c13c3": {
+    "url": "db://assets/resources/model/plane01/plane01.FBX@c13c3",
+    "value": {
+      "depends": [
+        "71d0b0a7-6303-4317-986a-2ba0045e0560@aa4e8",
+        "71d0b0a7-6303-4317-986a-2ba0045e0560@fa5f7"
+      ]
+    },
+    "versionCode": 1
+  }
+}
